@@ -26,7 +26,7 @@ Steps
 
 Requirements
 
-Splunk Cloud (free trial) for log analysis.
-7-Zip to extract dhcp.log.gz.
-dhcp.log (1 MB) with extracted fields.
-GitHub repo for storing docs and screenshots.
+-Splunk Cloud (free trial) for log analysis.
+-7-Zip to extract dhcp.log.gz.
+-dhcp.log (1 MB) with extracted fields.
+-GitHub repo for storing docs and screenshots.
