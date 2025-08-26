@@ -1,3 +1,5 @@
+This md file contains the insights derived from the DHCP logs
+
 <img width="955" height="423" alt="DHCP_SERVER" src="https://github.com/user-attachments/assets/9928a978-8185-464c-9d90-21481d5b1d8a" /><img width="958" height="430" alt="Broadcast_Request" src="https://github.com/user-attachments/assets/9e3e53a7-59d7-459a-a823-e416dc6a57db" /><img width="938" height="468" alt="Succesful-IP-Assignments" src="https://github.com/user-attachments/assets/2a5cc3d2-4532-486b-bb68-ba71adf2eec1" />This contains the insights derived from the DHCP logs
 
 - List All DHCP Transactions
